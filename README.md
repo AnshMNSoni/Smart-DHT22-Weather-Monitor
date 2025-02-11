@@ -13,7 +13,7 @@
 ![image](https://github.com/user-attachments/assets/6ab0ce51-b2e7-4998-924f-5e0e1c615dfe)
 
 
-### Wiring Diagram:
+### 🌐 Wiring Diagram:
 
 #### 👉 DHT22 Sensor:
 VCC -> 5V <br/>
