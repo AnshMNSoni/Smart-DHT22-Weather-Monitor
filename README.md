@@ -1,6 +1,6 @@
 # Smart-DHT22-Weather-Monitor
 
-### Components Used:
+### 🌐 Components Used:
 - `DHT22 Sensor`
 - `LCD(16x2) Display`
 - `Arduino UNO R3`
@@ -8,7 +8,7 @@
 - `pushButton`
 - `1KΩ Resistors` and `Jumper Wires`
 
-### Circuit Diagram:
+### 🌐 Circuit Diagram:
 
 ![image](https://github.com/user-attachments/assets/6ab0ce51-b2e7-4998-924f-5e0e1c615dfe)
 
@@ -30,7 +30,7 @@ SCL -> A5 (on most Arduino boards like Uno) <br/>
 Red Button -> Pin 7 (for mode toggle) <br/>
 Blue Button -> Pin 5 (for showing readings) <br/>
 
-### How to Use:
+### 🌐 How to Use:
 1️⃣ Upload the Code: Open the code in the Arduino IDE and upload it to your Arduino. <br/>
 
 2️⃣ Power the Arduino: Connect the Arduino to your power source (e.g., USB or external power supply). <br/>
@@ -40,14 +40,14 @@ Blue Button -> Pin 5 (for showing readings) <br/>
 - Press the Blue Button to display the temperature and humidity readings.
 - View the Output: The LCD will display the readings for 1 second and then return to the main menu.
 
-### Notes:
+### 🌐 Notes:
 1️⃣ Ensure your wiring is correct to avoid any issues with sensor readings. <br/>
 
 2️⃣ The DHT22 sensor might take a few seconds to stabilize and give accurate readings. <br/>
 
 3️⃣ You can adjust the delay times in the code to change how long the readings are displayed. <br/>
 
-### License:
+### 🌐 License:
 This project is open-source and licensed under the `MIT License`.
 
-### Contributions are always Welcome!
+### 🌐 Contributions are always Welcome!
