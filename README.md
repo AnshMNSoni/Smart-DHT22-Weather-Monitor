@@ -16,15 +16,15 @@
 ### 🌐 Wiring Diagram:
 
 #### 👉 DHT22 Sensor:
-VCC -> 5V <br/>
-GND -> GND <br/>
-Data -> Pin 2 (Digital Pin) <br/>
+- VCC -> 5V <br/>
+- GND -> GND <br/>
+- Data -> Pin 2 (Digital Pin) <br/>
 
 #### 👉 LCD Display:
-VCC -> 5V <br/>
-GND -> GND <br/>
-SDA -> A4 (on most Arduino boards like Uno) <br/>
-SCL -> A5 (on most Arduino boards like Uno) <br/>
+- VCC -> 5V <br/>
+- GND -> GND <br/>
+- SDA -> A4 (on most Arduino boards like Uno) <br/>
+- SCL -> A5 (on most Arduino boards like Uno) <br/>
 
 #### 👉 Push Buttons:
 Red Button -> Pin 7 (for mode toggle) <br/>
