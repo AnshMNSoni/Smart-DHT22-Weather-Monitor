@@ -27,8 +27,8 @@
 - SCL -> A5 (on most Arduino boards like Uno) <br/>
 
 #### 👉 Push Buttons:
-Red Button -> Pin 7 (for mode toggle) <br/>
-Blue Button -> Pin 5 (for showing readings) <br/>
+- Red Button -> Pin 7 (for mode toggle) <br/>
+- Blue Button -> Pin 5 (for showing readings) <br/>
 
 ### 🌐 How to Use:
 1️⃣ Upload the Code: Open the code in the Arduino IDE and upload it to your Arduino. <br/>
@@ -51,3 +51,5 @@ Blue Button -> Pin 5 (for showing readings) <br/>
 This project is open-source and licensed under the `MIT License`.
 
 ### 🌐 Contributions are always Welcome!
+
+#### Thankyou 😊 
