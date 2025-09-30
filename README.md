@@ -1,5 +1,8 @@
 # Smart-DHT22-Weather-Monitor
 
+### 🌐 Introduction:
+This project is a simple weather monitoring system using Arduino and the DHT22 sensor. It measures and displays real-time temperature and humidity data.
+
 ### 🌐 Components Used:
 - `DHT22 Sensor`
 - `LCD(16x2) Display`
